@@ -1,5 +1,7 @@
 # Hello 👋, I'm Shrika
 
+[Portfolio website link](https://portfolio-website-sable-ten-82.vercel.app/)
+
 I'm an engineering student with a keen interest in computer science, problem solving, and building meaningful things through code.
 
 ## 🔹 Skills & Tools
