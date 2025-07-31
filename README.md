@@ -1,4 +1,4 @@
-# Hello 👋, I'm Shrika
+# Hello 👋, I'm Shrika Alva
 
 [Portfolio website link](https://portfolio-website-sable-ten-82.vercel.app/)
 
