@@ -7,7 +7,7 @@ I'm an engineering student with a keen interest in computer science, problem sol
 ## 🔹 Skills & Tools
   [![My Skills](https://skillicons.dev/icons?i=c,java,py,mysql)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,flask)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,flask,sklearn)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,ubuntu)](https://skillicons.dev)
 
