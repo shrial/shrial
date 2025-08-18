@@ -1,6 +1,7 @@
 # Hello 👋, I'm Shrika Alva
 
-I'm an engineering student with a keen interest in computer science, problem solving, and building meaningful things through code.
+I'm an engineering student with a keen interest in computer science, problem solving, and building meaningful things through code.<br>
+I like to work on projects involving web development and Machine Learning.
 
 [Portfolio website link](https://portfolio-website-sable-ten-82.vercel.app/)
 
