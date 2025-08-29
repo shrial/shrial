@@ -8,7 +8,7 @@ I like to work on projects involving web development and Machine Learning.
 ## 🔹 Skills & Tools
   [![My Skills](https://skillicons.dev/icons?i=c,java,py,mysql)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,flask,sklearn)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,react,nodejs,flask,sklearn)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,ubuntu)](https://skillicons.dev)
 
